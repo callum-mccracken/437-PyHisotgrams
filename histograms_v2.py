@@ -19,7 +19,7 @@ import time
 rng = 100000
 
 ##################
-dataName = 'raw-2311-samesp'
+dataName = 'raw-2311-samesp SHORT'
 ##################
 
 # Load data as a dataframe
